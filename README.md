@@ -2,6 +2,7 @@
 <center><h2>Hi👋, I'm Nishanth L</h2> </center>
 <h1>Am a Java full stack dev</h1>
 <h2>just for dev profile</h2>
+I'm a Full Stack Developer with a passion for building complete, scalable web applications — from sleek, user-friendly interfaces to efficient, secure backend systems.
 
 
 **Nishanth L-JavaDev/Nishanth L-JavaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishanth L</h1>
-<h3 align="center">A passionate Fullstack java and Devopd Tools from India</h3>
+<h3 align="center">A passionate Fullstack java and Devopd Tools</h3>
 
 - 🔭 I’m currently working on **React Spring Boot Cloud AWS**
 
